@@ -9,5 +9,3 @@ Right now, I'm based in **Auckland**, enjoying the peace and scenery. I'm curren
 I'm currently working on a project called **[Sparrow](https://github.com/aizhimou/sparrow)** — it's practical, it's useful, and hey, you should totally check it out.
 
 If you're curious about me, feel free to drop by my **[homepage](https://asimov.top)** — there's more stuff there that might interest you.
-
-<-- And if you're curious about any of my projects — or just want to chat tech — my inbox is always open 💬 (I promise I don’t bite. -->
